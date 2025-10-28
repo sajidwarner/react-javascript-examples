@@ -1,0 +1,20 @@
+{
+  "name": "react-javascript-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajidwarner/react-javascript-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajidwarner/react-javascript-examples/issues"
+  },
+  "homepage": "https://github.com/sajidwarner/react-javascript-examples#readme"
+}
